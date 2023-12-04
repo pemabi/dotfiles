@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = peter.
-	name = Peter Bitman peter.bitman@gmail.com
+	email = peter.bitman@gmail.com
+	name = Peter Bitman
